@@ -4,4 +4,4 @@ Play it [here](https://clchinara.github.io/bug-exterminator/) (mobile devices ar
 
 <br>
 
-![main-menu](https://github.com/clchinara/media-repo/blob/master/bug-exterminator/main-menu-hd.gif)
+![main-menu](https://github.com/clchinara/media-repo/blob/master/bug-exterminator/main-menu-std.gif)
