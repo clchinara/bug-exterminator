@@ -18,6 +18,9 @@ Play it [here](https://clchinara.github.io/bug-exterminator/) (mobile devices ar
 * **Pause or resume game**: P
 
 ## Game Preview
+
+<br>
+
 ![cross](https://github.com/clchinara/media-repo/blob/master/bug-exterminator/cross-std.gif)
 ![shoot](https://github.com/clchinara/media-repo/blob/master/bug-exterminator/shoot-std.gif)
 ![shoot-front](https://github.com/clchinara/media-repo/blob/master/bug-exterminator/shoot-front-std.gif)
